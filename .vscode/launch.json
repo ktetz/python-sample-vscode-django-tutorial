@@ -13,7 +13,8 @@
             "args": [
                 "runserver",
                 "--noreload",
-                "--nothreading"
+                "--nothreading",
+                "7000"
             ],
             "django": true
         }
